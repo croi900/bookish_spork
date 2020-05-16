@@ -1,0 +1,2 @@
+D:\dev\ModernOpenGLPractice\ModernOpenGLPractice\Debug\ModernOpenGLPractice.exe
+D:\dev\ModernOpenGLPractice\ModernOpenGLPractice\Debug\ModernOpenGLPractice.pdb
